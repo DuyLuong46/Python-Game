@@ -1,19 +1,3 @@
-'''
-Name: Duy Luong
-CSC 201
-Programming Project 4
-
-This program plays a version of Little Spider Solitaire. In this version
-the foundation piles starting with two red aces and two black kings
-are created when the game begins. The eight tableau piles are in
-one horizontal line. At any time, cards can be moved from the
-tableau to the foundation piles or to another tableau, as long as
-it is a valid move. One point is earned for every valid move to
-a foundation pile.
-
-Document Assistance (who and what or declare no assistance):
-
-'''
 from board import *
 from button import *
 from deck import *
